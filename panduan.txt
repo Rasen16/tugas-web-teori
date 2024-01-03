@@ -1,1 +1,10 @@
+#Cara instalasi
+1. Nyalain xampp
+2. ketik url di browser "localhost/phpmyadmin" 
+3. buat database baru dengan nama "db_absensi" 
+4. klik "db_absensi" nya setelah berhasil dibuat, lalu klik tab "import"
+5. klik tombol "browse", lalu pilih file "db_absensi.sql"
+6. copy folder "absensi-puskesmas" ke "C:\xampp\htdocs"
+6. klo udah berhasil, ketik url di browser "localhost/absensi-puskesmas/"
+7. selesai
 
