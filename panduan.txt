@@ -7,5 +7,3 @@
 6. copy folder "absensi-puskesmas" ke "C:\xampp\htdocs"
 6. klo udah berhasil, ketik url di browser "localhost/absensi-puskesmas/"
 7. selesai
-jfjkdfkfjdkfaoi
-
